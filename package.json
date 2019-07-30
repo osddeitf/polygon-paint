@@ -1,5 +1,7 @@
 {
   "name": "draw",
+  "author": "osddeitf",
+  "repository": "https://github.com/osddeitf/polygon-draw",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
